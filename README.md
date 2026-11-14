@@ -61,6 +61,8 @@
 ### GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zliveze&show_icons=true&hide_rank=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zliveze&layout=compact&theme=transparent" />
+<img src="./assets/stats.svg" width="420" alt="GitHub snapshot" />
+<img src="./assets/languages.svg" width="420" alt="Top languages" />
 </p>
+
+<p align="center"><sub>Charts generated from live GitHub data by <code>tools/update-stats.ps1</code> — public repos only.</sub></p>
